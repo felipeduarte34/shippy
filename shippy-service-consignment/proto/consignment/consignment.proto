@@ -27,7 +27,6 @@ message Container {
 // Created a blank get request
 message GetRequest {}
 
-
 message Response {
     bool created = 1;
     Consignment consignment = 2;
